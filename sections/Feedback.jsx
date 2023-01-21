@@ -23,7 +23,7 @@ const Feedback = () => (
             Pratik
           </h4>
           <p className="mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22px] leading-[16px] text-white">
-            Creator | Metaverses Madness
+            Creator | Metaverse Madness
           </p>
         </div>
         <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45px] leading-[39px] text-white">

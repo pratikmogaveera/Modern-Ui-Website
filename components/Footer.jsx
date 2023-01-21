@@ -32,8 +32,8 @@ const Footer = () => (
       <div className="flex flex-col">
         <div className="mb-[50px] h-[2px] bg-white opacity-10" />
         <div className="flex items-center justify-between flex-wrap gap-4">
-          <h4 className="text-[24px] text-white font-extrabold">METAVERSES</h4>
-          <p className="text-[14px] font-normal text-white opacity-50">Copyright © 2021 - 2022 Metaversus. All rights reserved.</p>
+          <h4 className="text-[24px] text-white font-extrabold">METAVERSE</h4>
+          <p className="text-[14px] font-normal text-white opacity-50">Copyright © 2021 - 2022 Metaverse. All rights reserved.</p>
           <div className="flex flex-row gap-4">
             {socials.map((site) => (
 
